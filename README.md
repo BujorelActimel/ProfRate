@@ -1,5 +1,5 @@
-# MODERN LOGIN UI x FLUTTER
+# PROFRATE 
 
-Watch tutorial here: https://youtu.be/Dh-cTQJgM-Q
 
-![72692840-4960-4603-B21E-3BC8442AA19F](https://user-images.githubusercontent.com/29016489/206952739-29d2403c-c26b-472f-9f4d-fdc0e1458326.JPG)
+![Screenshot 2023-05-10 034736](https://github.com/BujorelActimel/ProfRate/assets/66405930/5c55a1fb-8c1b-4fd2-89f6-00551993a97a)
+![Screenshot 2023-05-24 112632](https://github.com/BujorelActimel/ProfRate/assets/66405930/360d0940-e9cb-4891-a10e-dbdb1bb849e7)
