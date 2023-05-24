@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "613778494881",
+    "project_id": "profrate-a38d5",
+    "storage_bucket": "profrate-a38d5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:613778494881:android:cfa08fb06f509ccf6f27e0",
+        "android_client_info": {
+          "package_name": "com.example.modernlogintute"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "613778494881-h0tp9as66bdihfabu32ernsa682ke37q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf_Uqg934N4pVQqRQztywjZBmBqrp2Ec4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "613778494881-h0tp9as66bdihfabu32ernsa682ke37q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
